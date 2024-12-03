@@ -1,0 +1,24 @@
+
+
+OOP => Object Oriented programming( PHP, JAVA, PYTHON, C++, C#)
+
+
+
+=========OOP=========
+
+object => 
+class  =>
+
+  car (object) == color,Model,Engine,Wheel ( Blue Print =>class)
+  
+
+   Class className{
+
+    propatties (variable, method)
+   }
+
+   ========== Access Modifier==========
+
+   Public
+   private
+   protected
